@@ -37,9 +37,9 @@ Once you're done, simply enter `stop.` and the program will tell you the results
 
 Below are some screen shots of what this minimalistic medical marvel can do. 
 
-<img src="SampleRun0.png" width="530" height="270">
+<img src="SampleRun0.png" width="2558 " height="530">
 
-<img src="SampleRun1.png" width="530" height="270">
+<img src="SampleRun1.png" width="2558 " height="530">
 
 Enjoy!
 
