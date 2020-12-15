@@ -39,6 +39,8 @@ Below are some screen shots of what this minimalistic medical marvel can do.
 
 <img src="SampleRun0.png">
 
+But what if you're healthy and have no symptoms whatsoever? Well I have good news for you!
+
 <img src="SampleRun1.png">
 
 Enjoy!
